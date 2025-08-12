@@ -28,7 +28,7 @@ python main.py
 No extra libraries needed — just good old `turtle` graphics.
 
 ## 📸 Gameplay Preview
-*(![Untitled design (4)](https://github.com/user-attachments/assets/29faf897-a673-4e32-af34-255610f6e903))*  
+*![Untitled design (4)](https://github.com/user-attachments/assets/29faf897-a673-4e32-af34-255610f6e903)*  
 
 ## 🛠 Tech Stack
 - **Language:** Python 🐍
